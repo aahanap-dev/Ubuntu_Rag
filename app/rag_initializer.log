@@ -1,0 +1,286 @@
+2025-03-27 23:55:00,060 - INFO - Initializing RAG system...
+2025-03-27 23:55:00,060 - INFO - Loading embeddings...
+2025-03-27 23:55:04,938 - INFO - Embeddings loaded successfully.
+2025-03-27 23:55:04,947 - INFO - Loading vector store...
+2025-03-27 23:55:09,244 - INFO - Loading faiss.
+2025-03-27 23:55:09,594 - INFO - Successfully loaded faiss.
+2025-03-27 23:55:09,602 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-27 23:55:09,698 - INFO - Vector store loaded successfully.
+2025-03-27 23:55:09,698 - INFO - Initializing LLM...
+2025-03-27 23:55:10,001 - INFO - LLM initialized successfully.
+2025-03-27 23:55:10,001 - INFO - Creating conversational retrieval chain...
+2025-03-27 23:55:10,002 - INFO - Conversational retrieval chain created successfully.
+2025-03-27 23:55:10,002 - INFO - RAG system initialized successfully.
+2025-03-27 23:55:43,495 - INFO - Initializing RAG system for API...
+2025-03-27 23:55:43,495 - INFO - Initializing RAG system...
+2025-03-27 23:55:43,495 - INFO - Loading embeddings...
+2025-03-27 23:55:48,048 - INFO - Embeddings loaded successfully.
+2025-03-27 23:55:48,054 - INFO - Loading vector store...
+2025-03-27 23:55:50,787 - INFO - Loading faiss.
+2025-03-27 23:55:51,401 - INFO - Successfully loaded faiss.
+2025-03-27 23:55:51,412 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-27 23:55:51,560 - INFO - Vector store loaded successfully.
+2025-03-27 23:55:51,560 - INFO - Initializing LLM...
+2025-03-27 23:55:51,947 - INFO - LLM initialized successfully.
+2025-03-27 23:55:51,947 - INFO - Creating conversational retrieval chain...
+2025-03-27 23:55:51,949 - INFO - Conversational retrieval chain created successfully.
+2025-03-27 23:55:51,949 - INFO - RAG system initialized successfully.
+2025-03-27 23:55:51,949 - INFO - RAG system initialized successfully.
+2025-03-27 23:56:06,907 - INFO - Initializing RAG system for API...
+2025-03-27 23:56:06,907 - INFO - Initializing RAG system...
+2025-03-27 23:56:06,907 - INFO - Loading embeddings...
+2025-03-27 23:56:10,587 - INFO - Embeddings loaded successfully.
+2025-03-27 23:56:10,588 - INFO - Loading vector store...
+2025-03-27 23:56:11,624 - INFO - Loading faiss.
+2025-03-27 23:56:12,095 - INFO - Successfully loaded faiss.
+2025-03-27 23:56:12,103 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-27 23:56:12,199 - INFO - Vector store loaded successfully.
+2025-03-27 23:56:12,199 - INFO - Initializing LLM...
+2025-03-27 23:56:12,578 - INFO - LLM initialized successfully.
+2025-03-27 23:56:12,898 - INFO - Creating conversational retrieval chain...
+2025-03-27 23:56:12,902 - INFO - Conversational retrieval chain created successfully.
+2025-03-27 23:56:12,902 - INFO - RAG system initialized successfully.
+2025-03-27 23:56:12,905 - INFO - RAG system initialized successfully.
+2025-03-27 23:56:33,315 - INFO - Initializing RAG system for API...
+2025-03-27 23:56:33,316 - INFO - Initializing RAG system...
+2025-03-27 23:56:33,316 - INFO - Loading embeddings...
+2025-03-27 23:56:37,605 - INFO - Embeddings loaded successfully.
+2025-03-27 23:56:37,610 - INFO - Loading vector store...
+2025-03-27 23:56:39,419 - INFO - Loading faiss.
+2025-03-27 23:56:39,974 - INFO - Successfully loaded faiss.
+2025-03-27 23:56:39,981 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-27 23:56:40,081 - INFO - Vector store loaded successfully.
+2025-03-27 23:56:40,081 - INFO - Initializing LLM...
+2025-03-27 23:56:40,507 - INFO - LLM initialized successfully.
+2025-03-27 23:56:40,507 - INFO - Creating conversational retrieval chain...
+2025-03-27 23:56:40,508 - INFO - Conversational retrieval chain created successfully.
+2025-03-27 23:56:40,508 - INFO - RAG system initialized successfully.
+2025-03-27 23:56:40,508 - INFO - RAG system initialized successfully.
+2025-03-27 23:56:56,641 - INFO - Received query: How to build ubuntu image
+2025-03-27 23:56:56,641 - INFO - Processing query: How to build ubuntu image
+2025-03-27 23:56:58,143 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-27 23:56:58,158 - INFO - Query processed successfully.
+2025-03-27 23:56:58,158 - INFO - Query processed successfully.
+2025-03-27 23:57:42,762 - INFO - Initializing RAG system for API...
+2025-03-27 23:57:42,762 - INFO - Initializing RAG system...
+2025-03-27 23:57:42,762 - INFO - Loading embeddings...
+2025-03-27 23:57:47,381 - INFO - Embeddings loaded successfully.
+2025-03-27 23:57:47,385 - INFO - Loading vector store...
+2025-03-27 23:57:49,986 - INFO - Loading faiss.
+2025-03-27 23:57:51,018 - INFO - Successfully loaded faiss.
+2025-03-27 23:57:51,047 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-27 23:57:51,160 - INFO - Vector store loaded successfully.
+2025-03-27 23:57:51,161 - INFO - Initializing LLM...
+2025-03-27 23:57:51,756 - INFO - LLM initialized successfully.
+2025-03-27 23:57:51,756 - INFO - Creating conversational retrieval chain...
+2025-03-27 23:57:51,758 - INFO - Conversational retrieval chain created successfully.
+2025-03-27 23:57:51,758 - INFO - RAG system initialized successfully.
+2025-03-27 23:57:51,758 - INFO - RAG system initialized successfully.
+2025-03-27 23:58:06,988 - INFO - Initializing RAG system for API...
+2025-03-27 23:58:06,989 - INFO - Initializing RAG system...
+2025-03-27 23:58:06,989 - INFO - Loading embeddings...
+2025-03-27 23:58:11,324 - INFO - Embeddings loaded successfully.
+2025-03-27 23:58:11,328 - INFO - Loading vector store...
+2025-03-27 23:58:14,506 - INFO - Loading faiss.
+2025-03-27 23:58:15,775 - INFO - Successfully loaded faiss.
+2025-03-27 23:58:15,802 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-27 23:58:15,941 - INFO - Vector store loaded successfully.
+2025-03-27 23:58:15,942 - INFO - Initializing LLM...
+2025-03-27 23:58:16,490 - INFO - LLM initialized successfully.
+2025-03-27 23:58:16,490 - INFO - Creating conversational retrieval chain...
+2025-03-27 23:58:16,491 - INFO - Conversational retrieval chain created successfully.
+2025-03-27 23:58:16,491 - INFO - RAG system initialized successfully.
+2025-03-27 23:58:16,491 - INFO - RAG system initialized successfully.
+2025-03-27 23:58:31,893 - INFO - Received query: What is Ubuntu
+2025-03-27 23:58:31,894 - INFO - Processing query: What is Ubuntu
+2025-03-27 23:58:33,787 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-27 23:58:33,924 - INFO - Query processed successfully.
+2025-03-27 23:58:33,924 - INFO - Query processed successfully.
+2025-03-28 01:10:38,172 - INFO - Initializing RAG system for API...
+2025-03-28 01:10:38,174 - INFO - Initializing RAG system...
+2025-03-28 01:10:38,174 - INFO - Loading embeddings...
+2025-03-28 01:10:43,298 - INFO - Embeddings loaded successfully.
+2025-03-28 01:10:43,301 - INFO - Loading vector store...
+2025-03-28 01:10:44,988 - INFO - Loading faiss.
+2025-03-28 01:10:45,567 - INFO - Successfully loaded faiss.
+2025-03-28 01:10:45,576 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-28 01:10:45,675 - INFO - Vector store loaded successfully.
+2025-03-28 01:10:45,675 - INFO - Initializing LLM...
+2025-03-28 01:10:46,023 - INFO - LLM initialized successfully.
+2025-03-28 01:10:46,023 - INFO - Creating conversational retrieval chain...
+2025-03-28 01:10:46,025 - INFO - Conversational retrieval chain created successfully.
+2025-03-28 01:10:46,025 - INFO - RAG system initialized successfully.
+2025-03-28 01:10:46,025 - INFO - RAG system initialized successfully.
+2025-03-28 01:11:00,757 - INFO - Received query: what is ubuntu
+2025-03-28 01:11:00,758 - INFO - Processing query: what is ubuntu
+2025-03-28 01:11:02,926 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 01:11:02,939 - INFO - Query processed successfully.
+2025-03-28 01:11:02,939 - INFO - Query processed successfully.
+2025-03-28 01:47:56,097 - INFO - Initializing RAG system for API...
+2025-03-28 01:47:56,098 - INFO - Initializing RAG system...
+2025-03-28 01:47:56,098 - INFO - Loading embeddings...
+2025-03-28 01:48:02,088 - INFO - Embeddings loaded successfully.
+2025-03-28 01:48:02,092 - INFO - Loading vector store...
+2025-03-28 01:48:06,415 - INFO - Loading faiss.
+2025-03-28 01:48:09,762 - INFO - Successfully loaded faiss.
+2025-03-28 01:48:09,802 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-28 01:48:09,920 - INFO - Vector store loaded successfully.
+2025-03-28 01:48:09,921 - INFO - Initializing LLM...
+2025-03-28 01:48:10,602 - INFO - LLM initialized successfully.
+2025-03-28 01:48:10,602 - INFO - Creating conversational retrieval chain...
+2025-03-28 01:48:10,603 - INFO - Conversational retrieval chain created successfully.
+2025-03-28 01:48:10,603 - INFO - RAG system initialized successfully.
+2025-03-28 01:48:10,603 - INFO - RAG system initialized successfully.
+2025-03-28 01:48:32,858 - INFO - Received query: how can i build an ubuntu image
+2025-03-28 01:48:32,860 - INFO - Processing query: how can i build an ubuntu image
+2025-03-28 01:48:36,215 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 01:48:36,232 - INFO - Query processed successfully.
+2025-03-28 01:48:36,232 - INFO - Query processed successfully.
+2025-03-28 01:48:50,064 - INFO - Received query: how can i do it for a specific version
+2025-03-28 01:48:50,065 - INFO - Processing query: how can i do it for a specific version
+2025-03-28 01:48:50,664 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 01:48:51,939 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 01:48:51,944 - INFO - Query processed successfully.
+2025-03-28 01:48:51,944 - INFO - Query processed successfully.
+2025-03-28 01:49:32,932 - INFO - Received query: give me the format for account-key assertion
+2025-03-28 01:49:32,934 - INFO - Processing query: give me the format for account-key assertion
+2025-03-28 01:49:33,637 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 01:49:36,015 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 01:49:36,019 - INFO - Query processed successfully.
+2025-03-28 01:49:36,019 - INFO - Query processed successfully.
+2025-03-28 01:55:42,219 - INFO - Initializing RAG system for API...
+2025-03-28 01:55:42,219 - INFO - Initializing RAG system...
+2025-03-28 01:55:42,219 - INFO - Loading embeddings...
+2025-03-28 01:55:47,912 - INFO - Embeddings loaded successfully.
+2025-03-28 01:55:47,917 - INFO - Loading vector store...
+2025-03-28 01:55:51,729 - INFO - Loading faiss.
+2025-03-28 01:55:52,107 - INFO - Successfully loaded faiss.
+2025-03-28 01:55:52,114 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-28 01:55:52,211 - INFO - Vector store loaded successfully.
+2025-03-28 01:55:52,211 - INFO - Initializing LLM...
+2025-03-28 01:55:52,607 - INFO - LLM initialized successfully.
+2025-03-28 01:55:52,607 - INFO - Creating conversational retrieval chain...
+2025-03-28 01:55:52,608 - INFO - Conversational retrieval chain created successfully.
+2025-03-28 01:55:52,608 - INFO - RAG system initialized successfully.
+2025-03-28 01:55:52,608 - INFO - RAG system initialized successfully.
+2025-03-28 01:58:30,136 - INFO - Initializing RAG system for API...
+2025-03-28 01:58:30,136 - INFO - Initializing RAG system...
+2025-03-28 01:58:30,136 - INFO - Loading embeddings...
+2025-03-28 01:58:35,244 - INFO - Embeddings loaded successfully.
+2025-03-28 01:58:35,670 - INFO - Loading vector store...
+2025-03-28 01:58:37,022 - INFO - Loading faiss.
+2025-03-28 01:58:37,632 - INFO - Successfully loaded faiss.
+2025-03-28 01:58:37,641 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-28 01:58:37,733 - INFO - Vector store loaded successfully.
+2025-03-28 01:58:37,733 - INFO - Initializing LLM...
+2025-03-28 01:58:38,200 - INFO - LLM initialized successfully.
+2025-03-28 01:58:38,200 - INFO - Creating conversational retrieval chain...
+2025-03-28 01:58:38,203 - INFO - Conversational retrieval chain created successfully.
+2025-03-28 01:58:38,203 - INFO - RAG system initialized successfully.
+2025-03-28 01:58:38,203 - INFO - RAG system initialized successfully.
+2025-03-28 01:58:43,138 - INFO - Initializing RAG system for API...
+2025-03-28 01:58:43,139 - INFO - Initializing RAG system...
+2025-03-28 01:58:43,139 - INFO - Loading embeddings...
+2025-03-28 01:58:47,754 - INFO - Embeddings loaded successfully.
+2025-03-28 01:58:47,754 - INFO - Loading vector store...
+2025-03-28 01:58:49,176 - INFO - Loading faiss.
+2025-03-28 01:58:49,529 - INFO - Successfully loaded faiss.
+2025-03-28 01:58:49,538 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-28 01:58:49,639 - INFO - Vector store loaded successfully.
+2025-03-28 01:58:49,639 - INFO - Initializing LLM...
+2025-03-28 01:58:49,856 - INFO - LLM initialized successfully.
+2025-03-28 01:58:49,856 - INFO - Creating conversational retrieval chain...
+2025-03-28 01:58:49,857 - INFO - Conversational retrieval chain created successfully.
+2025-03-28 01:58:49,857 - INFO - RAG system initialized successfully.
+2025-03-28 01:58:49,857 - INFO - RAG system initialized successfully.
+2025-03-28 01:59:04,469 - INFO - Received query: how to build ubuntu image
+2025-03-28 01:59:04,469 - INFO - Processing query: how to build ubuntu image
+2025-03-28 01:59:07,011 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 01:59:07,026 - INFO - Query processed successfully.
+2025-03-28 01:59:07,026 - INFO - Query processed successfully.
+2025-03-28 01:59:07,026 - ERROR - Error processing query: JSONResponse.__init__() got an unexpected keyword argument 'indent'
+2025-03-28 02:00:06,735 - INFO - Initializing RAG system for API...
+2025-03-28 02:00:06,735 - INFO - Initializing RAG system...
+2025-03-28 02:00:06,735 - INFO - Loading embeddings...
+2025-03-28 02:00:10,736 - INFO - Embeddings loaded successfully.
+2025-03-28 02:00:10,740 - INFO - Loading vector store...
+2025-03-28 02:00:14,505 - INFO - Loading faiss.
+2025-03-28 02:00:15,027 - INFO - Successfully loaded faiss.
+2025-03-28 02:00:15,034 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-28 02:00:15,131 - INFO - Vector store loaded successfully.
+2025-03-28 02:00:15,131 - INFO - Initializing LLM...
+2025-03-28 02:00:15,490 - INFO - LLM initialized successfully.
+2025-03-28 02:00:15,490 - INFO - Creating conversational retrieval chain...
+2025-03-28 02:00:15,491 - INFO - Conversational retrieval chain created successfully.
+2025-03-28 02:00:15,491 - INFO - RAG system initialized successfully.
+2025-03-28 02:00:15,492 - INFO - RAG system initialized successfully.
+2025-03-28 02:00:27,764 - INFO - Received query: how to build ubuntu image
+2025-03-28 02:00:27,765 - INFO - Processing query: how to build ubuntu image
+2025-03-28 02:00:31,021 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 02:00:31,035 - INFO - Query processed successfully.
+2025-03-28 02:00:31,035 - INFO - Query processed successfully.
+2025-03-28 02:01:06,309 - INFO - Received query: how to build ubuntu image
+2025-03-28 02:01:06,311 - INFO - Processing query: how to build ubuntu image
+2025-03-28 02:01:09,086 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 02:01:11,452 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 02:01:11,456 - INFO - Query processed successfully.
+2025-03-28 02:01:11,456 - INFO - Query processed successfully.
+2025-03-28 02:02:23,572 - INFO - Received query: how to do it for specific version
+2025-03-28 02:02:23,572 - INFO - Processing query: how to do it for specific version
+2025-03-28 02:02:24,256 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 02:02:26,007 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 02:02:26,010 - INFO - Query processed successfully.
+2025-03-28 02:02:26,011 - INFO - Query processed successfully.
+2025-03-28 02:02:29,715 - INFO - Received query: how to do it for specific version
+2025-03-28 02:02:29,716 - INFO - Processing query: how to do it for specific version
+2025-03-28 02:02:30,343 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 02:02:32,485 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 02:02:32,489 - INFO - Query processed successfully.
+2025-03-28 02:02:32,489 - INFO - Query processed successfully.
+2025-03-28 02:06:47,771 - INFO - Initializing RAG system for API...
+2025-03-28 02:06:47,772 - INFO - Initializing RAG system...
+2025-03-28 02:06:47,772 - INFO - Loading embeddings...
+2025-03-28 02:06:53,265 - INFO - Embeddings loaded successfully.
+2025-03-28 02:06:53,280 - INFO - Loading vector store...
+2025-03-28 02:06:56,591 - INFO - Loading faiss.
+2025-03-28 02:06:57,189 - INFO - Successfully loaded faiss.
+2025-03-28 02:06:57,202 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-28 02:06:57,334 - INFO - Vector store loaded successfully.
+2025-03-28 02:06:57,336 - INFO - Initializing LLM...
+2025-03-28 02:06:57,753 - INFO - LLM initialized successfully.
+2025-03-28 02:06:57,754 - INFO - Creating conversational retrieval chain...
+2025-03-28 02:06:57,760 - INFO - Conversational retrieval chain created successfully.
+2025-03-28 02:06:57,760 - INFO - RAG system initialized successfully.
+2025-03-28 02:06:57,761 - INFO - RAG system initialized successfully.
+2025-03-28 02:07:17,174 - INFO - Initializing RAG system for API...
+2025-03-28 02:07:17,174 - INFO - Initializing RAG system...
+2025-03-28 02:07:17,174 - INFO - Loading embeddings...
+2025-03-28 02:07:20,866 - INFO - Embeddings loaded successfully.
+2025-03-28 02:07:20,870 - INFO - Loading vector store...
+2025-03-28 02:07:22,133 - INFO - Loading faiss.
+2025-03-28 02:07:22,564 - INFO - Successfully loaded faiss.
+2025-03-28 02:07:22,578 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-28 02:07:22,660 - INFO - Vector store loaded successfully.
+2025-03-28 02:07:22,661 - INFO - Initializing LLM...
+2025-03-28 02:07:23,045 - INFO - LLM initialized successfully.
+2025-03-28 02:07:23,045 - INFO - Creating conversational retrieval chain...
+2025-03-28 02:07:23,048 - INFO - Conversational retrieval chain created successfully.
+2025-03-28 02:07:23,048 - INFO - RAG system initialized successfully.
+2025-03-28 02:07:23,048 - INFO - RAG system initialized successfully.
+2025-03-28 02:07:40,411 - INFO - Received query: how to build Ubuntu Image
+2025-03-28 02:07:40,413 - INFO - Processing query: how to build Ubuntu Image
+2025-03-28 02:07:42,589 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 02:07:42,599 - INFO - Query processed successfully.
+2025-03-28 02:07:42,599 - INFO - Query processed successfully.
+2025-03-28 02:08:13,997 - INFO - Received query: how to do it for specific version
+2025-03-28 02:08:14,002 - INFO - Processing query: how to do it for specific version
+2025-03-28 02:08:15,483 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 02:08:17,754 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 02:08:17,758 - INFO - Query processed successfully.
+2025-03-28 02:08:17,758 - INFO - Query processed successfully.
+2025-03-28 02:08:52,680 - INFO - Received query: give me the format of account-key assertion
+2025-03-28 02:08:52,682 - INFO - Processing query: give me the format of account-key assertion
+2025-03-28 02:08:53,375 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 02:08:55,708 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 02:08:55,711 - INFO - Query processed successfully.
+2025-03-28 02:08:55,711 - INFO - Query processed successfully.
