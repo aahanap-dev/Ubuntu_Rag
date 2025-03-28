@@ -39,12 +39,12 @@ Another method explored was header-based chunking. The documents were fairly str
 May miss nuanced semantic relationships between different sections, leading to possible gaps in context.
 
 
-Better Retrival Approach:
-If not for the time construct, i would have experimented with the semantic + lexical chunking combination.
+## Better Retrival Approach:
+- If not for the time construct, i would have experimented with the semantic + lexical chunking combination.
 Lexical would have helped in keyword queries and semantic would have been helpful in well structured queries.
 To combine these two, weigheted combination can be tested for example
 0.4 * similarity score of lexical algorithm (eg bm25, tfidf) + 0.6 * similarity score of computed from vector db
 Based on the results, the weights can be adjusted .
 
-Another approach which can be tested is reranking 
+- Another approach which can be tested is reranking 
 Cross encoders would be computationally heavy , so i would have gone with colbert based reranking, which efficiently gives the similarity score using max sim measure
